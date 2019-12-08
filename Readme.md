@@ -44,7 +44,7 @@
 | 자동차 경주 | [코드](https://github.com/woowacourse-mission-review/java-racingcar-review) | [링크](https://github.com/woowacourse-mission-review/java-racingcar-review/pull/1) |
 | 사다리 게임 | [코드](https://github.com/woowacourse-mission-review/java-ladder-review/tree/dpudpu) | [링크](https://github.com/woowacourse-mission-review/java-ladder-review/pull/3) |
 | 좌표 계산기 | [코드](https://github.com/woowacourse-mission-review/java-coordinate-review/tree/dpudpu) | [링크](https://github.com/woowacourse-mission-review/java-coordinate-review/pull/4) |
-| 로또        | [코드](https://github.com/woowacourse-mission-review/java-lotto-review/tree/dpudpu) | [링크]                                                       |
+| 로또        | [코드](https://github.com/woowacourse-mission-review/java-lotto-review/tree/dpudpu) | [링크](https://github.com/woowacourse-mission-review/java-lotto-review/pull/5)                                                       |
 | 체스        | [코드](https://github.com/woowacourse-mission-review/java-chess-review/tree/dpudpu) | [링크]                                                       |
 
 
@@ -76,7 +76,7 @@
 
 ### 📝 글쓰기
 
-- 미션 - [나에게 맞는 학습 방법을 찾아서](https://github.com/woowacourse/woowa-writing-1/blob/dpudpu/레벨2 - 성장.md))
+- 미션 - [나에게 맞는 학습 방법을 찾아서](https://github.com/woowacourse/woowa-writing-1/blob/dpudpu/%EB%A0%88%EB%B2%A82%20-%20%EC%84%B1%EC%9E%A5.md)
 
 - [레벨2 회고](https://velog.io/@dpudpu/6)
 
@@ -99,7 +99,7 @@ Framework 만들기
 
 ### 📝 글쓰기
 
-- 미션 - [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/woowacourse/woowa-writing-1/blob/dpudpu/레벨3 - 성숙.md)
+- 미션 - [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/woowacourse/woowa-writing-1/blob/dpudpu/%EB%A0%88%EB%B2%A83%20-%20%EC%84%B1%EC%88%99.md)
 - [레벨3 회고](https://velog.io/@dpudpu/우아한테크코스-레벨3-회고-)
 
 
