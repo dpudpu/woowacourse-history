@@ -107,5 +107,5 @@ Framework 만들기
 # 4️⃣ 레벨4 (11/26~12/27)	
 
 5주간 프로젝트 진행
-- [개발자 장비 ](https://github.com/gae-jang-mo/app)
+- [개발자 장비 모임](https://github.com/gae-jang-mo/app)
 
