@@ -111,3 +111,4 @@ Framework 만들기
 
 ### 📝 글쓰기
 - 미션 - [2기 크루들에게 보내는 편지](https://github.com/dpudpu/woowa-writing-1/blob/dpudpu/%EB%A0%88%EB%B2%A84%20-%202%EA%B8%B0%20%ED%81%AC%EB%A3%A8%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8E%B8%EC%A7%80.md)
+- [2019 회고](https://dublin-java.tistory.com/59)
